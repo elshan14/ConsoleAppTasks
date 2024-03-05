@@ -1,0 +1,14 @@
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\bin\Debug\net8.0\GenericsFinalTask.exe
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\bin\Debug\net8.0\GenericsFinalTask.deps.json
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\bin\Debug\net8.0\GenericsFinalTask.runtimeconfig.json
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\bin\Debug\net8.0\GenericsFinalTask.dll
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\bin\Debug\net8.0\GenericsFinalTask.pdb
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\GenericsFinalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\GenericsFinalTask.AssemblyInfoInputs.cache
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\GenericsFinalTask.AssemblyInfo.cs
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\GenericsFinalTask.csproj.CoreCompileInputs.cache
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\GenericsFinalTask.dll
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\refint\GenericsFinalTask.dll
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\GenericsFinalTask.pdb
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\GenericsFinalTask.genruntimeconfig.cache
+C:\Users\elsha\OneDrive\Documents\Backend Projects\Backend\ConsoleAppTasks\GenericsFinalTask\obj\Debug\net8.0\ref\GenericsFinalTask.dll
